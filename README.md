@@ -1,6 +1,6 @@
 # Dados de crimes de Los Angeles (LA)
 
-O dataset utilizado nessa EDA é fornecido pelo *Los Angeles Police Department* (LAPD) e contém dados relacionados a crime na cidade de Los Angeles (LA) a partir de 2020. Os dados foram transcritos dos *reports* originais e portanto podem haver algumas inconsistências.
+O dataset utilizado nessa EDA é fornecido pelo *Los Angeles Police Department* (LAPD) ([clique aqui e tenha acesso a base](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8)) e contém dados relacionados a crime na cidade de Los Angeles (LA) a partir de 2020. Os dados foram transcritos dos *reports* originais e portanto podem haver algumas inconsistências.
 
 O conjunto de dados fornecido pelo LAPD, possui mais de 500.000 linhas e 28 colunas, das quais 6 (colunas relacionadas a código dos crimes cometidos e o tipo de arma utilizado) possuem mais de 50% dos dados como faltantes e portanto foram desconsideradas para as análises.
 
